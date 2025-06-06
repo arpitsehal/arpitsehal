@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m Arpit Sehal<br>👀 Passionate MERN Stack Aspirant<br>🌱 I’m currently in my 2nd year of Btech-CSE<br>📫 For contact:- 2005sehalarpit@gmail.com<br>😄 Pronouns: he/him
+# 🎓 CSE ’27 @IKGPTU | ⚛️ Building dynamic projects with Electron.js & React.js | 🌐 Strong in C++ & DSA 📊 | 💻 Proficient in HTML, CSS & JavaScript | ✨Canva graphic designer | Exploring cloud tech ☁️
 
 
 ## 🌐 Socials:

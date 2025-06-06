@@ -1,5 +1,8 @@
 # 🎓 CSE ’27 @IKGPTU | ⚛️ Building dynamic projects with Electron.js & React.js | 🌐 Strong in C++ & DSA 📊 | 💻 Proficient in HTML, CSS & JavaScript | ✨Canva graphic designer | Exploring cloud tech ☁️
 
+<img src="https://raw.githubusercontent.com/arpitsehal/arpitsehal/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/arpitsehal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:2005sehalarpit@gmail.com) 

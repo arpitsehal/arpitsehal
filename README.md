@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86AB,100:6C63FF&height=180&section=header&text=Arpit%20Kumar&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20AI-Integrated%20Apps&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+the+MERN+stack;Integrating+AI+into+real-world+products;Open-Source+Contributor+%7C+Hackathon+Finalist;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E86AB&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+the+MERN+stack;Cross-platform+mobile+apps+with+React+Native+%26+Expo;Automating+workflows+with+AI;Open-Source+Contributor+%7C+Hackathon+Finalist" alt="Typing SVG" />
+
+<sub>🎯 Intern @ Miles Education &nbsp;|&nbsp; 🏆 Finalist, PSB Hackathon Series 2025 &nbsp;|&nbsp; 🥇 Winner, GFG Coding Marathon &nbsp;|&nbsp; 🤖 Semi-Finalist, ET Gen AI Hackathon 2026</sub>
 
 </div>
 
@@ -11,10 +13,11 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — IK Gujral Punjab Technical University *(2023 – Present)*
-- 💻 Full-stack developer focused on the **MERN stack**, AI-integrated tools, and cross-platform apps
-- 🔭 Currently building **[Nexa](https://www.nexanews.tech)** — an AI-powered personalized news platform
-- 🏆 Rank 1 · GeeksforGeeks 30-Day Coding Marathon (2026)  &nbsp;|&nbsp;  Top 10 of 230+ teams · PSB Hackathon 2025
-- 🌱 Exploring AI integrations, mobile development (React Native), and scalable system design
+- 💻 Currently interning at **Miles Education** *(May 2026 – Present)*
+- 🧱 Full-stack development with the **MERN stack**, plus cross-platform mobile apps using **React Native & Expo**
+- 🤖 Exploring **AI automation** — integrating tools like Cursor AI, Firebase Studio, and OpenRouter API into real dev workflows
+- 🏆 Winner, GFG 30-Day Coding Marathon (2026) &nbsp;·&nbsp; Finalist, PSB Hackathon Series 2025 &nbsp;·&nbsp; Semi-Finalist, ET Gen AI Hackathon 2026
+- 🌱 Active in the open-source community — GirlScript Summer of Code, Social Summer of Code (Reskilll), Google Developer Innovator Program
 - 📫 **2005sehalarpit@gmail.com**
 
 <br>
@@ -22,17 +25,37 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,firebase,electron,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,mongodb,mysql,supabase,firebase,electron,git,github,vscode&theme=dark" />
+
+<br><br>
+
+[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev)
+[![AI Automation](https://img.shields.io/badge/AI%20Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
 </div>
 
 <br>
 
-### 💼 Experience
+### 💼 Professional Experience
 
 <table>
-<tr><td>🧩</td><td><b>MERN Stack Developer Intern</b> · AINRION <br><sub>Sept 2025 – Jan 2026 &nbsp;·&nbsp; Built &amp; deployed LMS/CMS apps serving 100+ users, shipped 5+ cross-team features</sub></td></tr>
-<tr><td>⚙️</td><td><b>SDE Intern</b> · Yug Yatra Retail <br><sub>Jun 2025 – Aug 2025 &nbsp;·&nbsp; AI-integrated prototypes, freelance project delivery, e-commerce visibility optimization</sub></td></tr>
-<tr><td>🌍</td><td><b>Open Source Contributor</b> · Social Summer of Code <br><sub>Aug 2025 – Nov 2025 &nbsp;·&nbsp; Shipped fixes &amp; features across 5+ repos via structured PR workflows</sub></td></tr>
+<tr><td>🟣</td><td><b>Intern</b> · Miles Education <br><sub>May 2026 – Present &nbsp;·&nbsp; Full-time &nbsp;·&nbsp; Remote</sub></td></tr>
+<tr><td>🧩</td><td><b>MERN Stack Developer Intern</b> · Ainrion <br><sub>Sept 2025 – Jan 2026 &nbsp;·&nbsp; Built &amp; deployed LMS/CMS apps serving 100+ users, shipped 5+ cross-team features</sub></td></tr>
+<tr><td>⚙️</td><td><b>SDE Intern</b> · YugaYatra Retail (OPC) Pvt. Ltd. <br><sub>Jun 2025 – Aug 2025 &nbsp;·&nbsp; AI-integrated web &amp; mobile apps (Cursor AI, Firebase Studio), Amazon &amp; Flipkart seller-portal management, freelance delivery via Upwork</sub></td></tr>
+<tr><td>🔗</td><td><b>MERN Stack Intern</b> · Pisoft Informatics Pvt. Ltd. <br><sub>Jun 2025 – Jul 2025 &nbsp;·&nbsp; On-site</sub></td></tr>
+</table>
+
+<br>
+
+### 🌐 Open Source & Community
+
+<table>
+<tr><td>🌍</td><td><b>Contributor (SSOC)</b> · Reskilll <br><sub>Jun 2025 – Oct 2025 &nbsp;·&nbsp; Open-source contributions under Social Summer of Code — 5+ repos, structured PR workflows</sub></td></tr>
+<tr><td>👩‍💻</td><td><b>Contributor</b> · GirlScript Summer of Code <br><sub>Nov 2024 – Jun 2025 &nbsp;·&nbsp; Open-source contributions across community projects</sub></td></tr>
+<tr><td>☁️</td><td><b>Member, Google Developer Innovator Program</b> · Google Cloud Skills Boost <br><sub>Dec 2024 – Apr 2025 &nbsp;·&nbsp; Cloud computing &amp; API development</sub></td></tr>
+<tr><td>🧱</td><td><b>Advocate</b> · HackQuest <br><sub>Jul 2024 – Nov 2024 &nbsp;·&nbsp; Web3 community advocacy</sub></td></tr>
+<tr><td>🎓</td><td><b>Student Coordinator</b> · Training &amp; Placement Cell, IKG PTU <br><sub>Nov 2024 – Present &nbsp;·&nbsp; Event management &amp; organization</sub></td></tr>
 </table>
 
 <br>
@@ -67,7 +90,7 @@ AI-powered scam detection across URL, SMS & voice with multi-layered fraud analy
 <td width="50%" valign="top">
 
 **🏅 Achievements**
-Rank 1, GFG 30-Day Coding Marathon (2026) · Top 10 Finalist, PSB Hackathon Series 2025 · Selected participant, Pragyan NIT Trichy (Arcadia Rivals)
+🥇 Winner, GFG 30-Day Coding Marathon (2026) · 🏆 Finalist, PSB Hackathon Series 2025 (Top 10/230+ teams) · 🤖 Semi-Finalist, ET Gen AI Hackathon 2026 · 🎮 Selected participant, Pragyan NIT Trichy (Arcadia Rivals)
 
 </td>
 </tr>

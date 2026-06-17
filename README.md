@@ -10,6 +10,18 @@
 
 <br>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpitsehal/arpitsehal/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpitsehal/arpitsehal/output/github-contribution-grid-snake.svg">
+  <img alt="contribution grid snake animation" src="https://raw.githubusercontent.com/arpitsehal/arpitsehal/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br>
+
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering — IK Gujral Punjab Technical University *(2023 – Present)*
@@ -98,7 +110,26 @@ AI-powered scam detection across URL, SMS & voice with multi-layered fraud analy
 
 <br>
 
-### 📊 GitHub Stats
+### 📌 Popular Repositories
+
+<table>
+<tr>
+<td><a href="https://github.com/arpitsehal/Revio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitsehal&repo=Revio&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/arpitsehal/To-Do-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitsehal&repo=To-Do-List&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/arpitsehal/E-Commerce-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitsehal&repo=E-Commerce-web&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/arpitsehal/Weather"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitsehal&repo=Weather&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/arpitsehal/Cam-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitsehal&repo=Cam-App&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/arpitsehal/MindMate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=arpitsehal&repo=MindMate&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+</table>
+
+<br>
+
+### 📊 GitHub Stats & Activity
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=arpitsehal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -107,6 +138,10 @@ AI-powered scam detection across URL, SMS & voice with multi-layered fraud analy
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitsehal&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitsehal&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 <br>
